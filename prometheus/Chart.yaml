@@ -11,12 +11,5 @@ sources:
   - https://github.com/prometheus/pushgateway
   - https://github.com/prometheus/node_exporter
   - https://github.com/kubernetes/kube-state-metrics
-maintainers:
-  - name: mahesh
-    email: mv8592203@gmail.com
-  - name: zanhsieh
-    email: mahesh.kumar@ifi.tech
-  - name: Xtigyro
-    email: mahesh.kumar@ifi.tech
 engine: gotpl
 tillerVersion: ">=2.8.0"
